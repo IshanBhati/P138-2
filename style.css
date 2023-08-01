@@ -1,0 +1,76 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+.heading_inst
+{
+  font-size: 23px;
+  margin: 0px;
+}
+
+.big_image
+{
+  width: 100%;
+}
+
+.heading button
+{
+  float: right;
+  border: 1px solid white;
+}
+
+.heading h3
+{
+  display: inline;
+}
+
+.heading_div2
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+#status , #objects_detected
+{
+  font-size: 18px;
+}
+
+body
+{
+  background-size: cover;
+  background-position: center;
+}
+
+canvas
+{
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+  margin-top: 30px;
+}
+
+#play_game , #status, #restart
+{
+  font-size: 22px;
+}
+
+h4
+{
+  background-color: limegreen;
+  line-height: 3;
+  margin: 0px;
+}
+
+.copy_right_footer
+{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: grey;
+    color: white;
+    line-height: 2.5;
+    bottom: 0;
+}
